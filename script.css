@@ -1,0 +1,25 @@
+.container {
+    background-color: aqua;
+
+}
+
+.timer-wrap {display:block;
+    content:flex;
+    justify-content: right;
+    background-color: aqua;
+
+}
+
+.startBtn-wrap {
+    display:block;
+    content:flex;
+    justify-content: right;
+    background-color: aqua;
+}
+
+.quizBox {
+    display:block;
+    content:flex;
+    justify-content: right;
+    background-color: aqua;
+}
